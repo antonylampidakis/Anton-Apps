@@ -39,5 +39,14 @@ export const apps: PersonalApp[] = [
     technologies: ['React', 'TypeScript', 'Supabase'],
     icon: '🎓',
   },
-  
+  {
+    id: 'dapaxotoday',
+    name: 'DapaxoToday',
+    description: 'Εφαρμογή παρακολούθησης ημερισιων βαρδιων .',
+    category: 'Tools',
+    status: 'Live',
+    url: 'https://dapaxotoday.antonylampidakis.com/',
+    technologies: ['React', 'TypeScript', 'Supabase'],
+    icon: '🚒',
+  },
 ]
