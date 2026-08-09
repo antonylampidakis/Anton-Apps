@@ -49,4 +49,14 @@ export const apps: PersonalApp[] = [
     technologies: ['React', 'TypeScript', 'Supabase'],
     icon: '🚒',
   },
+  {
+    id: 'TasksNotes',
+    name: 'Tasks & Notes',
+    description: 'Εφαρμογή για  Tasks & Notes .',
+    category: 'Tools',
+    status: 'Live',
+    url: 'https://tasks.antonylampidakis.com/',
+    technologies: ['React', 'TypeScript', 'Supabase'],
+    icon: '📒',
+  },
 ]
