@@ -67,6 +67,6 @@ export const apps: PersonalApp[] = [
     status: 'Live',
     url: 'https://antonylampidakis.github.io/birthdays-gifts-app/',
     technologies: ['React', 'TypeScript', 'Supabase'],
-    icon: '🎉🎁',
+    icon: '🎉',
   },
 ]
