@@ -59,4 +59,14 @@ export const apps: PersonalApp[] = [
     technologies: ['React', 'TypeScript', 'Supabase'],
     icon: '📒',
   },
+  {
+    id: 'birthday&gifts',
+    name: 'birthdays-gifts-app',
+    description: 'Εφαρμογή για  birthdays-gifts-app .',
+    category: 'Tools',
+    status: 'Live',
+    url: 'https://antonylampidakis.github.io/birthdays-gifts-app/',
+    technologies: ['React', 'TypeScript', 'Supabase'],
+    icon: '🎉🎁',
+  },
 ]
